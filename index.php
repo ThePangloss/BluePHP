@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Starter Application</title>
+	<title>App PHP</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -9,7 +9,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/newapp-icon.png'>
+				<img class = 'newappIcon' src='images/cloud.jpg'>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Test de liaison BD cloud avec Bluemix"; ?></h1>
