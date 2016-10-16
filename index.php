@@ -12,7 +12,7 @@
 				<img class = 'newappIcon' src='images/cloud.jpg'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Test de liaison BD cloud avec Bluemix"; ?></h1>
+				<h1 id = "message"><?php echo "Test de liaison BD cloud avec Bluemix V1"; ?></h1>
 			</td>
 		</tr>
 	</table>
