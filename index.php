@@ -6,6 +6,18 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
+<?php
+$servername = "us-cdbr-iron-east-04.cleardb.net";
+$username = "b125372f22b89b";
+$password = "b4ee5c03";
+
+$conn = new mysqli($servername, $username, $password);
+if ($conn->connect_error){
+echo "Something wrong"
+} else {
+echo "Hello world"
+}
+?>
 	<table>
 		<tr>
 			<td style='width: 30%;'>
